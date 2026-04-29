@@ -16,46 +16,78 @@
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
-### 🔹 OptiPress – Smart File Compressor & Optimizer
-Full-stack file compression tool using:
-- React frontend, Node.js middleware, Spring Boot backend
-- Supports multiple file formats, optimized compression algorithms
-- 🔧 **Skills:** Java · Spring Boot · React.js · Node.js  
-🔗 [View Project](https://github.com/Srivishnuboddu)
+### 🔹 URL Shortener – Distributed Scalable System
+Production-grade URL shortening platform inspired by Bitly, built using distributed systems principles.
+
+- 🔗 Generate short URLs using Base62 encoding
+- ⚡ Ultra-fast redirects using Redis Cache-Aside pattern
+- 🛡️ Token Bucket Rate Limiting (100 req/min/IP)
+- 📊 Click analytics & traffic tracking
+- 🌐 Designed for horizontal scalability
+
+🔧 **Skills:** Java · Spring Boot · Redis · MySQL · REST APIs  
+🔗 [View Project](https://github.com/Srivishnuboddu/url-shortener)
 
 ---
 
-### 🔹 DailyDo – The To-Do List Application
-Responsive task manager to boost productivity.
-- ✅ Features: Add, Edit, Delete, Toggle Task Status
-- 💾 Persistent using `localStorage`
-- 🎯 Clean UI/UX for daily routines  
-- 🔧 **Skills:** HTML5 · CSS3 · JavaScript · localStorage  
-🔗 [View Project](https://github.com/Srivishnuboddu/DailyDo)
+### 🔹 AI Blog Enhancer – Full Stack Content Automation
+Complete AI-powered content enhancement pipeline built for automated blog optimization.
+
+- 📰 Scrapes real blog articles and stores in database
+- 🤖 Enhances articles using AI automation
+- ⚙️ Laravel backend + Node.js automation
+- 💻 React frontend for Original vs AI-enhanced comparison
+- 🛡️ Fault-tolerant production-ready workflow
+
+🔧 **Skills:** Laravel · Node.js · React.js · MySQL · OpenAI API  
+🔗 [View Project](https://github.com/Srivishnuboddu/AI-powered-blog-scraping-and-enhancement-system-BeyondChats)
+
+---
+
+### 🔹 OptiPress – Smart File Compressor & Optimizer
+Modern full-stack file compression platform for optimizing multiple file formats.
+
+- 📁 Compress images, PDFs, and files efficiently
+- ⚡ Fast processing with Spring Boot backend
+- 🎨 Clean React UI with drag & drop support
+- 🔄 Node.js middleware integration
+
+🔧 **Skills:** Java · Spring Boot · React.js · Node.js  
+🔗 [View Project](https://github.com/Srivishnuboddu/file-compressor)
+
+---
+
+### 🔹 Library Management System – Salesforce CRM
+Cloud-based library management system built using Salesforce declarative tools.
+
+- 📚 Manage books, members, issue/return workflows
+- 💰 Automatic fine generation using Flows
+- 🔒 Role-based access control
+- 📊 Reports & dashboards for insights
+- ⚙️ Validation rules and automation
+
+🔧 **Skills:** Salesforce · Flows · Validation Rules · Dashboards · CRM  
+🔗 [View Project](https://github.com/Srivishnuboddu/Library-Management-System-using-Salesforce)
 
 ---
 
 ### 🔹 JobMate Resume Analyzer
-ReactJS-based smart resume optimization tool.
-- 🧠 Smart skill matching using datasets
-- 📑 Detect sections, give feedback, export stylish reports
-- 🧰 Tech: `React`, `pdfjs`, `jsPDF`, `Parcel`  
-🔧 **Skills:** React.js · PDF Analysis · Skill Matching  
-🔗 [View Project](https://github.com/Srivishnuboddu)
+Smart ATS resume optimization tool built using React.
+
+- 📄 Resume skill matching using datasets
+- 🧠 Smart feedback and section analysis
+- 📤 Stylish report export feature
+- ⚡ Fast and responsive UI
+
+🔧 **Skills:** React.js · JavaScript · PDF.js · jsPDF  
+🔗 [View Project](https://github.com/Srivishnuboddu/Resume_checker_with_React)
 
 ---
 
-### 🔹 Heart Health Predictor
-Web app that predicts heart disease risk based on inputs.
-- 🧪 Trained using real medical data with `Scikit-learn`
-- 🧠 Frontend: HTML + CSS + JavaScript  
-- 💻 Backend: Flask API  
-🔧 **Skills:** Python · Flask · Scikit-learn · Pandas  
-🔗 [View Project](https://github.com/Srivishnuboddu/Heart-Health-Predictor-new)
-
----
 
 ### 🔹 News Analyzer & Credibility Checker
 Streamlit + Hugging Face app to:
@@ -112,14 +144,7 @@ Streamlit + Hugging Face app to:
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srivishnuboddu&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srivishnuboddu&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Let's Connect
 
